@@ -18,5 +18,5 @@ this repo contains folder which contains links for specific purpose which can be
    - https://developer.ibm.com/patterns/build-a-real-time-translation-service-with-watson-api-kit/
    ![Real time app which speak](https://github.com/IBM/watson-speech-translator/raw/master/doc/source/images/architecture.png)
 * * *
-**5. Running KAFKA in Docker
+**5. Running KAFKA in Docker**
    - https://towardsdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way-4ceb00817d8b?gi=a328f7b77d33
