@@ -20,3 +20,6 @@ this repo contains folder which contains links for specific purpose which can be
 * * *
 **5. Running KAFKA in Docker**
    - https://towardsdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way-4ceb00817d8b?gi=a328f7b77d33
+* * *
+**6. Rename file in Windows from terminal**
+   - https://www.alphr.com/how-to-batch-rename-files-in-windows-10/
